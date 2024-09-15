@@ -12,14 +12,12 @@ $~$
 **Supply** and **demand** are the most important concepts in economics. 
 
 **供给**和**需求**，是经济学中最重要的概念。但在讨论它们之前，我们先需要讨论**市场**和**竞争**的概念。
-因为有了市场，才有买者和卖者，进而才有需求和供给。
-只有在竞争市场中，买者和卖者对价格没什么影响，才能讨论供给和需求的改变对于价格的影响。
 
 $~$
 
 **Market** is a group of buyers and sellers of a particular good or service.
 
-**市场**：某种商品/服务的买者与卖者组成的一个群体
+**市场**：某种物品/服务的买者与卖者组成的一个群体
 
 $~$
 
@@ -58,21 +56,34 @@ $~$
 Some degree of competition is present in most markets.
 在大部分市场中，都会有一定程度的竞争
 
+
+
+> 补充：市场类型的划分和特征
+
+| Market Type              | Number of Firms | Product Differentiation              | Degree of Price Control        | Ease of Entry/Exit                | Similar Product Markets                    |
+| ------------------------ | --------------- | ------------------------------------ | ------------------------------ | --------------------------------- | ------------------------------------------ |
+| Perfect Competition      | Very many       | No differentiation                   | None                           | Very easy                         | Some agricultural products                 |
+| Monopolistic Competition | Very many       | Differentiated                       | Some                           | Relatively easy                   | Some light industrial products, retail     |
+| Oligopoly                | Few             | Differentiated or undifferentiated   | Considerable                   | Relatively difficult              | Steel, automobiles, oil                    |
+| Monopoly                 | One             | Unique product, no close substitutes | Very high, but often regulated | Very difficult, almost impossible | Public utilities, e.g., water, electricity |
+
+![image-20240915220048224](images//image-20240915220048224.png)
+
 $~$
 
 ## 4.2 Demand
 
 > 需求
 
-**Quantity demanded** is the amount of a good that buyers are willing and able to purchase. **物品的需求量**：买者愿意购买，并且有能力购买的，这种商品的量
+**Quantity demanded** is the amount of a good that buyers are willing and able to purchase. **需求量**：买者愿意购买，并且有能力购买的，这种物品的量
 
 $~$
 
-**Law of demand** is the claim that, other things being equal, the quantity demanded of a good falls when the price of the good rises. **需求定理**：**在其他条件不变的情况下**，商品价格上升时，需求量会相应下降
+**Law of demand** is the claim that, other things being equal, the quantity demanded of a good falls when the price of the good rises. **需求定理**：**在其他条件不变的情况下**，物品价格上升时，需求量会相应下降
 
 $~$
 
-**Demand schedule** is a table that shows the relationship between the price of a good and the quantity demanded. **需求表**：表示一种商品在不同价格水平下的需求量的表
+**Demand schedule** is a table that shows the relationship between the price of a good and the quantity demanded. **需求表**：表示一种物品在不同价格水平下的需求量的表
 
 $~$
 
@@ -103,32 +114,34 @@ $~$
 
 **Shifts in the Demand Curve**在什么因素下，需求曲线**本身**会改变？
 
+
+
 1.Income
 收入
 
-+ **Normal good** is a good for which, other things being equal, an increase in income leads to a increase in quantity demanded. **正常商品**：其他条件不变，收入增加 $\rightarrow$ 需求量增加
++ **Normal good** is a good for which, other things being equal, an increase in income leads to a increase in quantity demanded. **正常物品**：其他条件不变，收入增加 $\rightarrow$ 需求量增加
 
 + **Inferior good** is a good for which, other things being equal, an increase in income leads to a decrease in quantity demanded.
-**低档商品**：其他条件不变，收入增加 $\rightarrow$ 需求量增加
+**低档物品**：其他条件不变，收入增加 $\rightarrow$ 需求量增加
 
 + For example, Public Transportation, Economy cars
-例如公共交通和私家车，前者是低档商品，后者是正常商品
+例如公共交通和私家车，前者是低档物品，后者是正常物品
 
 $~$
 
 2.Prices of related goods
-两种相关联的商品，一种商品的价格，会影响另一种商品的需求量
+两种相关联的物品，一种物品的价格，会影响另一种物品的需求量
 
 + **Substitutes** are two goods for which an increase in the price of one good leads to an increase in the demand for the other good.
-**替代品**：如果一种商品价格上升，引起另一种商品需求量增加；那么这两种商品互为互补品
+**替代品**：如果一种物品价格上升，引起另一种物品需求量增加；那么这两种物品互为替代品
 
 + **Complements** are two goods for which an increase in the price of one good leads to a decrease in the demand for the other good.
-**互补品**：如果一种物品价格上升，引起另一种物品需求量减少；那么这两种商品互为互补品
+**互补品**：如果一种物品价格上升，引起另一种物品需求量减少；那么这两种物品互为互补品
 
 $~$
 
 3.Tastes: While economists do not normally try to explain people’s tastes, they do examine what happens when tastes change.
-爱好也会影响需求曲线。虽然解释人们的爱好不属于经济学的范畴，但经济学家会考察，当爱好改变时，会有什么变化发生
+爱好也会影响需求曲线。虽然解释人们的爱好不属于经济学的范畴，但我们知道，当爱好转向一种物品时，会使这种物品的需求增加
 
 $~$
 
@@ -151,7 +164,7 @@ $~$
 **Table 1.Variables That Influence Buyers**影响需求量的因素有哪些
 ![image-20240915110420024](./images/image-20240915110420024.png)
 
-第一个因素商品的【价格】是让需求量**沿着需求曲线移动**；而后面的五个因素，是**改变需求曲线本身**
+第一个因素物品的【价格】是让需求量**沿着需求曲线移动**；而后面的五个因素，是**改变需求曲线本身**
 
 $~$
 
@@ -171,12 +184,12 @@ $~$
 > 供给
 
 **Quantity** supplied is the amount of a good that sellers are willing and able to sell.
-**供给量**：卖者愿意出售，并且能够出售的一种商品的数量
+**供给量**：卖者愿意出售，并且能够出售的一种物品的数量
 
 $~$
 
 **Law of supply** is the claim that, other things being equal, the quantity supplied of a good rises when the price of the good rises.
-**供给法则**：在其他条件不变的情况下，当商品的价格提升时，商品的供给量上升
+**供给法则**：在其他条件不变的情况下，当物品的价格提升时，物品的供给量上升
 
 $~$
 
@@ -186,7 +199,7 @@ $~$
 $~$
 
 **Supply curve** is a graph of the relationship between the price of a good and the quantity supplied.
-**供给曲线**：反映商品价格和供给量的关系
+**供给曲线**：反映物品价格和供给量的关系
 
 Figure 5.Ben’s Supply Schedule and Supply Curve.供给表和供给曲线的实例。从图中可以看出，价格越高，供给量越大
 
@@ -233,7 +246,7 @@ Figure 7.Shifts in the Supply Curve. 供给曲线发生改变时的图像形态
 
 $~$
 
-Table 2.Variables That Influence Sellers.能够影响供给量的因素
+Table 2.Variables That Influence Sellers. 
 
 ![image-20240915113002374](./images/image-20240915113002374.png)
 
@@ -263,7 +276,7 @@ $~$
 
 $~$
 
-Figure 8.The Equilibrium of Supply and Demand.求【均衡价格】和【均衡数量】的方法：将供给曲线和需求曲线联立，交点在x轴和y轴的投影，分别就是均衡数量和均衡价格了
+Figure 8.The Equilibrium of Supply and Demand.求【均衡价格】和【均衡数量】的方法：将供给曲线和需求曲线联立，交点在x轴和y轴的投影，就是均衡数量和均衡价格了
 
 ![image-20240915113419871](./images/image-20240915113419871.png)
 
@@ -283,7 +296,7 @@ $~$
 
 **Law of supply and deman**d is the claim that the price of any good adjusts to bring the supply and demand for that good into balance.
 
-**供求定理**：认为任何商品的价格都会自发调整，来使这种商品的供给和需求达到平衡
+**供求定理**：认为任何物品的价格都会自发调整，来使这种物品的供给和需求达到平衡
 
 Figure 9. Markets Not in Equilibrium.过剩和短缺，是市场没有达到均衡的状态
 
@@ -304,40 +317,32 @@ $~$
 
 $~$
 
-Example 1: A Change in Market Equilibrium Due to a Shift in Demand 在一个炎热的夏天（冰淇淋的需求增加了），分析冰淇淋的均衡如何移动
+Example 1: A Change in Market Equilibrium Due to a Shift in Demand 在一个炎热的夏天（冰淇淋的需求增加），分析冰淇淋的均衡如何移动
 1. 供给曲线不变，因为炎热没有直接影响冰淇淋生产。
 2. 炎热天气，使需求曲线向右移动了
 3. 画出供给曲线和需求曲线（如图10），可知均衡价格和均衡数量都增加
 
-Figure 10.How an Increase in Demand Affects the Equilibrium. 需求量改变，供给量不变，是如何影响均衡的
+Figure 10.How an Increase in Demand Affects the Equilibrium.
 ![image-20240915115407697](./images/image-20240915115407697.png)
-
-$~$
-
-**(Important) Shifts in curves versus movements along curves:**
-
-再次辨析“曲线本身的移动”和“沿着曲线的移动”
-
-+ “Supply” refers to the position of the supply curve, whereas the “quantity supplied” refers to the amount suppliers wish to sell.
-供给曲线本身的移动称为“供给变动”，沿着一条固定的供给曲线的变动称为“供给量的变动”
-
-+ “Demand” refers to the position of the demand curve, whereas the “quantity demanded” refers to the amount buyers wish to buy.
-需求曲线本身的移动称为“需求变动”，沿着一条固定的需求曲线的变动称为“需求量的变动”
 
 $~$
 
 Example 2: A Change in Market Equilibrium Due to a Shift in Supply 飓风破坏了工厂（冰淇淋的供给量减少），分析冰淇淋的均衡的移动情况
 
-过程同例1，略，图解见图11
+1. 需求曲线不变
+2. 飓风破坏了工厂，使供给曲线向左移动了
+3. 画出供给曲线和需求曲线（如图11），可知均衡价格上升，均衡数量下降
 
-Figure 11.How a Decrease in Supply Affects the Equilibrium. 供给量改变，需求量不变，是如何影响均衡的
+Figure 11.How a Decrease in Supply Affects the Equilibrium.
 ![image-20240915115959560](./images/image-20240915115959560.png)
 
 $~$
 
 Example: Shifts in Both Supply and Demand 在炎热天气，并且飓风破坏了工厂下（需求增加的同时，供给减少），分析冰淇淋的均衡如何变化
 
-过程同例1，略，图解见图12
+1. 需求曲线向右移动
+2. 供给曲线向左移动
+3. 画出供给曲线和需求曲线（如图12），可知均衡价格上升，均衡数量既有可能上升也有可能下降
 
 Figure 12.A Shift in Both Supply and Demand. 供给量和需求量同时改变，是如何影响均衡的
 ![image-20240915120022208](./images/image-20240915120022208.png)
@@ -347,8 +352,24 @@ $~$
 Table 4.What Happens to **P**rice and **Q**uantity When Supply or Demand Shift? 如果你不想画供给曲线和需求曲线来判断均衡价格/均衡数量的变化的话，也可以看这个表！
 
 ![image-20240915120452164](./images/image-20240915120452164.png)
+>ambiguous：既有可能上升也有可能下降
 
 $~$
+
+一些非常让人迷惑的概念的辨析
+
++ Shifts in curves v.s. movements along curves “曲线本身的移动”和“沿着曲线的移动”
+
++ Supply v.s. Quantity Supplied “供给”和“供给量”
+
++ Demand v.s. quantity demanded “需求”和“需求量”
+
+“Supply” refers to the position of the supply curve, whereas the “quantity supplied” refers to the amount suppliers wish to sell.
+供给曲线本身的移动称为“供给变动”，沿着一条固定的供给曲线的变动称为“供给量的变动”
+换言之，“供给”是那条可以左移/右移的供给曲线，而“供给量”只是那条曲线上的一点在x轴上的投影
+
+“Demand” refers to the position of the demand curve, whereas the “quantity demanded” refers to the amount buyers wish to buy.
+需求曲线本身的移动称为“需求变动”，沿着一条固定的需求曲线的变动称为“需求量的变动”
 
 ## Conclusion: How Prices Allocate Resources 
 
@@ -359,98 +380,22 @@ In any economic system, scarce resources have to be allocated among competing us
 
 
 ## 4.7 Summary
->理论上这些内容在上面都有，但也可以再看一遍
+>理论上，这些内容在上面都有，但也可以再看一遍
 
-Economists use the model of supply and demand toanalyze competitive markets. In a competitive market,there are many buyers and sellers, each of whom haslittle or no influence on the market price.
+Economists use the model of supply and demand to analyze competitive markets. In a competitive market,there are many buyers and sellers, each of whom has little or no influence on the market price.
 
-The demand curve shows how the quantity of a gooddemanded depends on the price. According to the lawof demand, as the price of a good falls, the quantitydemanded rises. Therefore, the demand curve slopesdownward.
+The demand curve shows how the quantity of a good demanded depends on the price. According to the law of demand, as the price of a good falls, the quantity demanded rises. Therefore, the demand curve slopes downward.
 
-In addition to price, other determinants of how muchconsumers want to buy include income, the prices ofsubstitutes and complements, tastes, expectations, andthe number of buyers. If one of these factors changes,the demand curve shifts.
+In addition to price, other determinants of how much consumers want to buy include income, the prices of substitutes and complements, tastes, expectations, and the number of buyers. If one of these factors changes,the demand curve shifts.
 
-The supply curve shows how the quantity of a goodsupplied depends on the price. According to the lawof supply, as the price of a good rises, the quantity suppliedrises. Therefore, the supply curve slopes upward.
+The supply curve shows how the quantity of a good supplied depends on the price. According to the law of supply, as the price of a good rises, the quantity supplied rises. Therefore, the supply curve slopes upward.
 
-In addition to price, other determinants of how muchproducers want to sell include input prices, technology,expectations, and the number of sellers. If one ofthese factors changes, the supply curve shifts.
+In addition to price, other determinants of how much producers want to sell include input prices, technology,expectations, and the number of sellers. If one of these factors changes, the supply curve shifts.
 
-The intersection of the supply and demand curvesdetermines the market equilibrium. At the equilibriumprice, the quantity demanded equals the quantitysupplied.
+The intersection of the supply and demand curves determines the market equilibrium. At the equilibrium price, the quantity demanded equals the quantity supplied.
 
-The behavior of buyers and sellers naturally drivesmarkets toward their equilibrium. When the marketprice is above the equilibrium price, there is a surplusof the good, which causes the market price tofall. When the market price is below the equilibriumprice, there is a shortage, which causes the marketprice to rise.
+The behavior of buyers and sellers naturally drives markets toward their equilibrium. When the market price is above the equilibrium price, there is a surplus of the good, which causes the market price to fall. When the market price is below the equilibrium price, there is a shortage, which causes the market price to rise.
 
-To analyze how any event influences a market, we usethe supply-and-demand diagram to examine how theevent affects the equilibrium price and quantity. To dothis, we follow three steps. First, we decide whetherthe event shifts the supply curve or the demand curve(or both). Second, we decide in which direction thecurve shifts. Third, we compare the new equilibriumwith the initial equilibrium.
+To analyze how any event influences a market, we use the supply-and-demand diagram to examine how the event affects the equilibrium price and quantity. To do this, we follow three steps. First, we decide whether the event shifts the supply curve or the demand curve(or both). Second, we decide in which direction the curve shifts. Third, we compare the new equilibrium with the initial equilibrium.
 
-In market economies, prices are the signals thatguide economic decisions and thereby allocate scarceresources. For every good in the economy, the priceensures that supply and demand are in balance. Theequilibrium price then determines how much of thegood buyers choose to consume
-
-
-
-## Chapter Quick Quiz
-
-
-
-1.A change in which of the following will NOT shift the demand curve for hamburgers?
-
-a. the price of hot dogs
-
-b. the price of hamburgers
-
-c. the price of hamburger buns
-
-d. the income of hamburger consumers
-
-$~$
-
-2.An increase in ________ will cause a movement along a given demand curve, which is called a change in________.
-
-a. supply, demand
-
-b. supply, quantity demanded
-
-c. demand, supply
-
-d. demand, quantity supplied
-
-$~$
-
-3.Movie tickets and film streaming services are substitutes. If the price of film streaming increases, what happens in the market for movie tickets?
-
-a. The supply curve shifts to the left.
-
-b. The supply curve shifts to the right.
-
-c. The demand curve shifts to the left.
-
-d. The demand curve shifts to the right.
-
-$~$
-
-4.The discovery of a large new reserve of crude oil will shift the ________ curve for gasoline, leading to a ________ equilibrium price.
-
-a. supply, higher
-
-b. supply, lower
-
-c. demand, higher
-
-d. demand, lower
-
-$~$
-
-5.If the economy goes into a recession and incomes fall, what happens in the markets for inferior goods?
-
-a. Prices and quantities both rise.
-
-b. Prices and quantities both fall.
-
-c. Prices rise and quantities fall.
-
-d. Prices fall and quantities rise.
-
-$~$
-
-6.Which of the following might lead to an increase in the equilibrium price of jelly and a decrease in the equilibrium quantity of jelly sold?
-
-a. an increase in the price of peanut better, a complement to jelly
-
-b. an increase in the price of Marshmallow Fluff, a substitute for jelly
-
-c. an increase in the price of grapes, an input into jelly
-
-d. an increase in consumers’ incomes, as long as jelly is a normal good
+In market economies, prices are the signals that guide economic decisions and thereby allocate scarcere sources. For every good in the economy, the price ensures that supply and demand are in balance. The equilibrium price then determines how much of the good buyers choose to consume.
