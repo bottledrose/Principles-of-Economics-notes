@@ -45,18 +45,10 @@ Under perfect competition, firms are **price takers**.
 
 $~$
 
-A market with only one seller is called **monopoly**.
-垄断市场：只有一个卖者的市场
-
->A market with few sellers is called an **oligopoly**.
-**寡头市场**：少数几个卖者的市场：
-
-$~$
-
 Some degree of competition is present in most markets.
 在大部分市场中，都会有一定程度的竞争
 
-
+$~$
 
 > 补充：市场类型的划分和特征
 
