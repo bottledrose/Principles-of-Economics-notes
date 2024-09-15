@@ -153,10 +153,13 @@ $~$
 
 $~$
 
-**Table 1.Variables That Influence Buyers**影响需求量的因素有哪些
+Table 1.Variables That Influence Buyers
 ![image-20240915110420024](./images/image-20240915110420024.png)
 
-第一个因素物品的【价格】是让需求量**沿着需求曲线移动**；而后面的五个因素，是**改变需求曲线本身**
+影响买者的因素有两种：
+
++ 让需求量沿着需求曲线移动
++ 需求曲线本身发生变化
 
 $~$
 
@@ -165,7 +168,7 @@ Figure 4.Shifts in the Demand Curve versus Movements along the Demand Curve. 以
 
 阻遏吸烟的政策，会让香烟的需求曲线本身左移。烟草税会增加香烟的价格，让需求量沿着需求曲线移动。
 
-需求曲线只包含了两个变量：价格和需求量。因为价格是需求曲线之内的因素，所以改变价格，需求量会沿着需求曲线移动。
+为什么改变价格，需求量会沿着需求曲线移动？因为需求曲线只包含了两个变量：价格和需求量。价格是需求曲线之内的因素，所以需求曲线本身不变
 
 而政策、收入、爱好、对未来预期、买者数量之类的因素，是需求曲线之外的因素。改变这些因素，便不再符合 Law of Demand 中 "other things being equal" 的条件。如果只是沿着原来的需求曲线移动，不能反映这种外部的变化。所以需求曲线本身要发生改变。
 
@@ -206,9 +209,11 @@ The market supply curve is the horizontal summation of the individual supply cur
 
 市场的供给曲线：是将个人的供给曲线，在水平方向求和
 
+Figure 6.Market Supply as the Sum of Individual Supplies.
+
 ![image-20240915112552497](./images/image-20240915112552497.png)
 
-Figure 6.Market Supply as the Sum of Individual Supplies.
+
 
 $~$
 
@@ -242,7 +247,10 @@ Table 2.Variables That Influence Sellers.
 
 ![image-20240915113002374](./images/image-20240915113002374.png)
 
-第一个因素价格，让供给量沿着供给曲线移动（如图5）；后四个因素，改变供给曲线本身（如图6）
+影响卖者的因素也有两种：
+
++ 供给量沿着供给曲线移动
++ 供给曲线本身发生变化
 
 $~$
 
@@ -363,12 +371,7 @@ $~$
 “Demand” refers to the position of the demand curve, whereas the “quantity demanded” refers to the amount buyers wish to buy.
 需求曲线本身的移动称为“需求变动”，沿着一条固定的需求曲线的变动称为“需求量的变动”
 
-## Conclusion: How Prices Allocate Resources 
-
-> 本章的内容，用一句话总结的话，就是如何通过价格来配置资源
-
-In any economic system, scarce resources have to be allocated among competing uses.具体的讲，就是各种用途之间，会竞争稀缺资源。任何一种经济制度都必须在各种用途之间，分配稀缺资源
-
+$~$
 
 
 ## 4.7 Summary
