@@ -127,9 +127,9 @@ Other demand elasticities
 
 $~$
 
-$
+$$
 \text { Income elasticity of demand }=\frac{\text { Percentage change in quantity demanded }}{\text { Percentage change in income }}
-$
+$$
 
 + Normal goods: Goods with income elasticity of demand greater than zero. The quantity demanded of normal goods increases as income levels increase
 + Inferior goods: Goods with income elasticity of demand less than zero. The quantity demanded of inferior goods decreases as income levels increase
@@ -160,10 +160,9 @@ $~$
 
 $~$
 
-$
+$$
 \text{Price Elasticity of Supply} = \frac{\text{Percentage Change in Quantity Supplied}}{\text{Percentage Change in Price}}
-$
-
+$$
 $~$
 
 The price elasticity of supply often depends on the length of time considered. In most markets, supply is more elastic in the long run than in the short run. This is because in the short run, producers find it difficult to quickly adjust their production scale to increase or decrease supply. However, in the long run, producers can build new factories or shut down production to change output in response to changes in demand. Therefore, long-term output is more sensitive to price changes, and the long-run price elasticity of supply is greater than the short-run elasticity.
