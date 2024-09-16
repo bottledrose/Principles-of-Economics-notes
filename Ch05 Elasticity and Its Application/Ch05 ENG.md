@@ -16,9 +16,9 @@ The first type of demand elasticity is **price elasticity of demand**: it measur
 
 $~$
 
-$
+$$
 \text { price elasticity of demand }=\frac{\text { percentage change in quantity demanded }}{\text { percentage change in price }}
-$
+$$
 
 $~$
 
@@ -43,6 +43,7 @@ Factors affecting price elasticity of demand:
 + Time horizon
   + Generally, the demand for goods tends to be more elastic in the long run
   
+
 $~$
 
 The Midpoint Method: A Better Way to Calculate Percentage Changes and Elasticities
