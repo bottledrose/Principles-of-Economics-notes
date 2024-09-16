@@ -55,9 +55,9 @@ $~$
 
 $~$
 
-$
+$$
 \text { price elasticity of demand }=\frac{\left(Q_2-Q_1\right) /\left[\left(Q_2+Q_1\right) / 2\right]}{\left(P_2-P_1\right) /\left[\left(P_2+P_1\right) / 2\right]}
-$
+$$
 
 Numerator: Percentage change in quantity calculated using the midpoint method, change in quantity ÷ midpoint quantity
 
@@ -142,9 +142,9 @@ $~$
 
 $~$
 
-$
+$$
 \text { Cross-price elasticity of demand }=\frac{\text { Percentage change in quantity demanded of good 1 }}{\text { Percentage change in price of good 2 }}
-$
+$$
 
 + If cross-price elasticity of demand > 0, goods 1 and 2 are substitutes. For example, rice and flour; a rise in rice price will lead to an increase in flour consumption
 
