@@ -28,7 +28,9 @@ $~$
 In the short run,
 
 +  supply and demand are inelastic. 
+
   + Landlords have a fixed number of apartments to rent, and they cannot adjust this number quickly as market conditions change.
+
   + The number of people searching for housing in a city may not be highly responsive to rents in the short run because people take time to adjust their housing arrangements.
 
 + The initial shortage caused by rent control is small. The primary effect in the short run is to reduce rents.
@@ -38,7 +40,9 @@ $~$
 In the long run,
 
 + supply and demand are more elastic.
+
   + Landlords respond to low rents by not building new apartments and by failing to maintain existing ones.
+
   + Low rents encourage people to find their own apartments
 
 + Rent control causes a large shortage
