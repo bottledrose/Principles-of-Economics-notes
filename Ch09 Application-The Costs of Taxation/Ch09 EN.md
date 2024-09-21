@@ -1,6 +1,6 @@
-f# Ch09 Application-The Costs of Taxation
+# Ch09 Application-The Costs of Taxation
 
-**Factors Determining Trade:* world price， comparative advantage.
+**Factors Determining Trade:** world price， comparative advantage.
 
 $~$
 
@@ -44,7 +44,7 @@ $~$
 | ---------------- | ------------ | ------------- | --------- |
 | Consumer Surplus | A + B        | A             | - B       |
 | Producer Surplus | C            | B + C + D     | + (B + D) |
-| Total Surplus    | A + B + C    | A + B + C + D | ==+ D==   |
+| Total Surplus    | A + B + C    | A + B + C + D | **+ D**   |
 
 > The area D shows the increase in total surplus and represents the gains from trade.
 
@@ -68,7 +68,7 @@ $~$
 | ---------------- | ------------ | ------------- | --------- |
 | Consumer Surplus | A            | A + B + D     | + (B + D) |
 | Producer Surplus | B + C        | C             | - B       |
-| Total Surplus    | A + B + C    | A + B + C + D | ==+ D==   |
+| Total Surplus    | A + B + C    | A + B + C + D | **+ D**   |
 
 > The area D shows the increase in total surplus and represents the gains from trade.
 
@@ -100,7 +100,7 @@ $~$
 | Consumer Surplus   | A + B + C + D + E + F     | A + B             | - (C + D + E + F) |
 | Producer Surplus   | G                         | C + G             | + C               |
 | Government Revenue | None                      | E                 | + E               |
-| Total Surplus      | A + B + C + D + E + F + G | A + B + C + E + G | ==- (D + F)==     |
+| Total Surplus      | A + B + C + D + E + F + G | A + B + C + E + G | **- (D + F)**     |
 
 > The area D + F shows the fall in total surplus and represents the deadweight loss of the tariff.
 
