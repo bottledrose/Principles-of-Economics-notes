@@ -167,3 +167,75 @@ $~$
 Countries that restrict free trade usually limit imports rather than exports. This is because producers are harmed by imports but benefit from exports.
 
 The vast majority of economists support free trade. Free trade among U.S. states has increased welfare by allowing different regions to specialize in producing goods in which they have a comparative advantage. Similarly, free trade among countries allows them to enjoy the benefits of comparative advantage and benefit from trade.
+
+
+
+## Summary
+
+- The effects of free trade can be determined by comparing the domestic price before trade with the world price. A low domestic price indicates that the country has a comparative advantage in producing the good and that the country will become an exporter. A high domestic price indicates that the rest of the world has a comparative advantage in producing the good and that the country will become an importer.
+- When a country allows trade and becomes an exporter of a good, producers of the good are better off, and consumers of the good are worse off. When a country allows trade and becomes an importer of a good, consumers are better off, and producers are worse off. In both cases, the gains from trade exceed the losses.
+- A tariff-a tax on imports-moves a market closer to the equilibrium that would exist without trade and, therefore, reduces the gains from trade. Although domestic producers are better off and the government raises revenue, the losses to consumers exceed these gains.
+- There are various arguments for restricting trade: protecting jobs, defending national security, helping infant industries, preventing unfair competition, and responding to foreign trade restrictions. Although some of these arguments have merit in some cases, most economists believe that free trade is usually the better policy.
+
+
+## Quick Quiz
+
+1. If a nation that does not allow international trade in steel has a domestic price of steel lower than the world price, then
+
+a. the nation has a comparative advantage in producing steel and would become a steel exporter if it opened up trade.
+
+b. the nation has a comparative advantage in producing steel and would become a steel importer if it opened up trade.
+
+c. the nation does not have a comparative advantage in producing steel and would become a steel exporter if it opened up trade.
+
+d. the nation does not have a comparative advantage in producing steel and would become a steel importer if it opened up trade.
+
+2. When the nation of Ectenia opens itself to world trade in coffee beans, the domestic price of coffee beans falls. Which of the following describes the situation?
+
+a. Domestic production of coffee rises, and Ectenia becomes a coffee importer.
+
+b. Domestic production of coffee rises, and Ectenia becomes a coffee exporter.
+
+c. Domestic production of coffee falls, and Ectenia becomes a coffee importer.
+
+d. Domestic production of coffee falls, and Ectenia becomes a coffee exporter.
+
+3. When a nation opens itself to trade in a good and becomes an importer,
+
+a. producer surplus decreases, but consumer surplus and total surplus both increase.
+
+b. producer surplus decreases, consumer surplus increases, and so the impact on total surplus is ambiguous.
+
+c. producer surplus and total surplus increase, but consumer surplus decreases.
+
+d. producer surplus, consumer surplus, and total surplus all increase.
+
+4. If a nation that imports a good imposes a tariff, it will increase
+
+a. the domestic quantity demanded.
+
+b. the domestic quantity supplied.
+
+c. the quantity imported from abroad.
+
+d. all of the above.
+
+5. Which of the following trade policies would benefit producers, hurt consumers, and increase the amount of trade?
+
+a. the increase of a tariff in an importing country
+
+b. the reduction of a tariff in an importing country
+
+c. starting to allow trade when the world price is greater than the domestic price
+
+d. starting to allow trade when the world price is less than the domestic price
+
+6. The main difference between imposing a tariff and handing out licenses under an import quota is that a tariff increases
+
+a. consumer surplus.
+
+b. producer surplus.
+
+c. international trade.
+
+d. government revenue.

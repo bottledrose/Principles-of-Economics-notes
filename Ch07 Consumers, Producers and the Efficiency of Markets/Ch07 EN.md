@@ -1,4 +1,4 @@
-1. # Ch07 Consumers, Producers and the Efficiency of Markets
+# Ch07 Consumers, Producers and the Efficiency of Markets
 
 In this chapter, we take up the topic of **welfare economics**.
 
@@ -216,3 +216,115 @@ There are two reasons why free markets may be inefficient:
 1. Markets may be imperfectly competitive. If individual buyers or sellers (or a small group) can influence prices, they have market power and can cause prices and quantities to deviate from equilibrium.
 
 2. Markets can have negative externalities that affect people who are not participating in the market at all. Buyers and sellers in the market do not consider negative effects such as pollution, which can lead to market equilibrium that may not be efficient for the entire society.
+
+
+
+## Quick Quiz
+
+1. Jen values her time at $\$ 60$ an hour. She spends 2 hours giving Colleen a massage. Colleen was willing to pay as much at $\$ 300$ for the massage, but they negotiate a price of $\$ 200$. In this transaction,
+a. consumer surplus is $\$ 20$ larger than producer surplus.
+b. consumer surplus is $\$ 40$ larger than producer surplus.
+c. producer surplus is $\$ 20$ larger than consumer surplus.
+d. producer surplus is $\$ 40$ larger than consumer surplus.
+2. The demand curve for cookies is downward-sloping. When the price of cookies is $\$ 2$, the quantity demanded is 100 . If the price rises to $\$ 3$, what happens to consumer surplus?
+a. It falls by less than $\$ 100$.
+b. It falls by more than $\$ 100$.
+c. It rises by less than $\$ 100$.
+d. It rises by more than $\$ 100$.
+3. John has been working as a tutor for $\$ 300$ a semester. When the university raises the price it pays tutors to $\$ 400$, Jasmine enters the market and begins tutoring as well. How much does producer surplus rise as a result of this price increase? a. by less than $\$ 100$
+b. between $\$ 100$ and $\$ 200$
+c. between $\$ 200$ and $\$ 300$
+d. by more than $\$ 300$
+4. An efficient allocation of resources maximizes
+a. consumer surplus.
+b. producer surplus.
+c. consumer surplus plus producer surplus.
+d. consumer surplus minus producer surplus.
+5. When a market is in equilibrium, the buyers are those with the $\qquad$ willingness to pay and the sellers are those with the $\qquad$ costs.
+a. highest, highest
+b. highest, lowest
+c. lowest, highest
+d. lowest, lowest
+6. Producing a quantity larger than the equilibrium of supply and demand is inefficient because the marginal buyer's willingness to pay is
+a. negative.
+b. zero.
+c. positive but less than the marginal seller's cost.
+d. positive and greater than the marginal seller's cost.
+
+## SUMMARY
+
+- Consumer surplus equals buyers' willingness to pay for a good minus the amount they actually pay, and it measures the benefit buyers get from participating in a market. Consumer surplus can be computed by finding the area below the demand curve and above the price.
+- Producer surplus equals the amount sellers receive for their goods minus their costs of production, and it measures the benefit sellers get from participating in a market. Producer surplus can be computed by finding the area below the price and above the supply curve.
+- An allocation of resources that maximizes total surplus (the sum of consumer and producer surplus) is said to be efficient. Policymakers are often concerned with the efficiency, as well as the equality, of economic outcomes.
+- The equilibrium of supply and demand maximizes total surplus. That is, the invisible hand of the marketplace leads buyers and sellers to allocate resources efficiently.
+- Markets do not allocate resources efficiently in the presence of market failures such as market power or externalities.
+
+QUESTIONS FOR REVIEW
+1. Explain how buyers' willingness to pay, consumer surplus, and the demand curve are related.
+2. Explain how sellers' costs, producer surplus, and the supply curve are related.
+3. In a supply-and-demand diagram, show producer and consumer surplus at the market equilibrium.
+4. What is efficiency? Is it the only goal of economic policymakers?
+5. Name two types of market failure. Explain why each may cause market outcomes to be inefficient.
+
+## PROBLEMS AND APPLICATIONS
+
+1. Melissa buys an iPhone for $\$ 240$ and gets consumer surplus of $\$ 160$.
+a. What is her willingness to pay?
+b. If she had bought the iPhone on sale for $\$ 180$, what would her consumer surplus have been?
+c. If the price of an iPhone were $\$ 500$, what would her consumer surplus have been?
+2. An early freeze in California sours the lemon crop. Explain what happens to consumer surplus in the market for lemons. Explain what happens to consumer surplus in the market for lemonade. Illustrate your answers with diagrams.
+3. Suppose the demand for French bread rises. Explain what happens to producer surplus in the market for French bread. Explain what happens to producer surplus in the market for flour. Illustrate your answers with diagrams.
+4. It is a hot day, and Bert is thirsty. Here is the value he places on each bottle of water:
+\begin{tabular}{ll} 
+Value of first bottle & $\$ 7$ \\
+Value of second bottle & $\$ 5$ \\
+Value of third bottle & $\$ 3$ \\
+Value of fourth bottle & $\$ 1$
+\end{tabular}
+
+a. From this information, derive Bert's demand schedule. Graph his demand curve for bottled water.
+b. If the price of a bottle of water is $\$ 4$, how many bottles does Bert buy? How much consumer surplus does Bert get from his purchases? Show Bert's consumer surplus in your graph.
+c. If the price falls to $\$ 2$, how does quantity demanded change? How does Bert's consumer surplus change? Show these changes in your graph.
+5. Ernie owns a water pump. Because pumping large amounts of water is harder than pumping small amounts, the cost of producing a bottle of water rises as he pumps more. Here is the cost he incurs to produce each bottle of water:
+\begin{tabular}{ll} 
+Cost of first bottle & $\$ 1$ \\
+Cost of second bottle & $\$ 3$ \\
+Cost of third bottle & $\$ 5$ \\
+Cost of fourth bottle & $\$ 7$
+\end{tabular}
+a. From this information, derive Ernie's supply schedule. Graph his supply curve for bottled water.
+b. If the price of a bottle of water is $\$ 4$, how many bottles does Ernie produce and sell? How much producer surplus does Ernie get from these sales? Show Ernie's producer surplus in your graph.
+c. If the price rises to $\$ 6$, how does quantity supplied change? How does Ernie's producer surplus change? Show these changes in your graph.
+6. Consider a market in which Bert from problem 4 is the buyer and Ernie from problem 5 is the seller.
+a. Use Ernie's supply schedule and Bert's demand schedule to find the quantity supplied and quantity demanded at prices of $\$ 2, \$ 4$, and $\$ 6$. Which of these prices brings supply and demand into equilibrium?
+b. What are consumer surplus, producer surplus, and total surplus in this equilibrium?
+c. If Ernie produced and Bert consumed one fewer bottle of water, what would happen to total surplus?
+d. If Ernie produced and Bert consumed one additional bottle of water, what would happen to total surplus?
+7. The cost of producing flat-screen TVs has fallen over the past decade. Let's consider some implications of this fact.
+a. Draw a supply-and-demand diagram to show the effect of falling production costs on the price and quantity of flat-screen TVs sold. b. In your diagram, show what happens to consumer surplus and producer surplus.
+c. Suppose the supply of flat-screen TVs is very elastic. Who benefits most from falling production costs-consumers or producers of these TVs?
+8. There are four consumers willing to pay the following amounts for haircuts:
+
+Gloria: \$35 Jay: \$10 Claire: \$40 Phil: \$25
+There are four haircutting businesses with the following costs:
+Firm A: \$15 Firm B: \$30 Firm C: \$20 Firm D: \$10
+Each firm has the capacity to produce only one haircut. To achieve efficiency, how many haircuts should be given? Which businesses should cut hair and which consumers should have their hair cut? How large is the maximum possible total surplus?
+9. One of the largest changes in the economy over the past several decades is that technological advances have reduced the cost of making computers.
+  a. Draw a supply-and-demand diagram to show what happened to price, quantity, consumer surplus, and producer surplus in the market for computers.
+  b. Forty years ago, students used typewriters to prepare papers for their classes; today they use computers. Does that make computers and typewriters complements or substitutes? Use a supply-and-demand diagram to show what happened to price, quantity, consumer surplus, and producer surplus in the market for typewriters. Should typewriter producers have been happy or sad about the technological advance in computers?
+  c. Are computers and software complements or substitutes? Draw a supply-and-demand diagram to show what happened to price, quantity, consumer surplus, and producer surplus in the market for software. Should software producers have been happy or sad about the technological advance in computers?
+  d. Does this analysis help explain why software producer Bill Gates is one of the world's richest people?
+10. A friend of yours is considering two cell phone service providers. Provider A charges $\$ 120$ per month for the service regardless of the number of phone calls made. Provider B does not have a fixed service fee but instead charges $\$ 1$ per minute for calls. Your friend's 
+11. monthly demand for minutes of calling is given by the equation $Q^D=150-50 P$, where $P$ is the price of a minute.
+    a. With each provider, what is the cost to your friend of an extra minute on the phone?
+    b. In light of your answer to (a), how many minutes with each provider would your friend talk on the phone?
+    c. How much would she end up paying each provider every month?
+    d. How much consumer surplus would she obtain with each provider? (Hint: Graph the demand curve and recall the formula for the area of a triangle.)
+    e. Which provider would you recommend that your friend choose? Why?
+    11. Consider how health insurance affects the quantity of healthcare services performed. Suppose that the typical medical procedure has a cost of $\$ 100$, yet a person with health insurance pays only $\$ 20$ out of pocket. Her insurance company pays the remaining $\$ 80$. (The insurance company recoups the $\$ 80$ through premiums, but the premium a person pays does not depend on how many procedures that person chooses to undertake.)
+    a. Draw the demand curve in the market for medical care. (In your diagram, the horizontal axis should represent the number of medical procedures.) Show the quantity of procedures demanded if each procedure has a price of $\$ 100$.
+    b. On your diagram, show the quantity of procedures demanded if consumers pay only $\$ 20$ per procedure. If the cost of each procedure to society is truly $\$ 100$, and if individuals have health insurance as described above, will the number of procedures performed maximize total surplus? Explain.
+    c. Economists often blame the health insurance system for excessive use of medical care. Given your analysis, why might the use of care be viewed as "excessive"?
+    d. What sort of policies might prevent this excessive use?
+
+    

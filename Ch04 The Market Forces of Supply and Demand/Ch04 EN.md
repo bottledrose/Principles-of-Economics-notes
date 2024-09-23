@@ -376,9 +376,7 @@ $~$
 $~$
 
 
-## 4.7 Summary
->理论上，这些内容在上面都有，但也可以再看一遍
-
+## Summary
 Economists use the model of supply and demand to analyze competitive markets. In a competitive market,there are many buyers and sellers, each of whom has little or no influence on the market price.
 
 The demand curve shows how the quantity of a good demanded depends on the price. According to the law of demand, as the price of a good falls, the quantity demanded rises. Therefore, the demand curve slopes downward.
@@ -396,3 +394,83 @@ The behavior of buyers and sellers naturally drives markets toward their equilib
 To analyze how any event influences a market, we use the supply-and-demand diagram to examine how the event affects the equilibrium price and quantity. To do this, we follow three steps. First, we decide whether the event shifts the supply curve or the demand curve(or both). Second, we decide in which direction the curve shifts. Third, we compare the new equilibrium with the initial equilibrium.
 
 In market economies, prices are the signals that guide economic decisions and thereby allocate scarcere sources. For every good in the economy, the price ensures that supply and demand are in balance. The equilibrium price then determines how much of the good buyers choose to consume.
+
+
+
+
+
+## Quick Quiz
+
+1. A change in which of the following will NOT shift the demand curve for hamburgers?
+a. the price of hot dogs
+b. the price of hamburgers
+c. the price of hamburger buns
+d. the income of hamburger consumers
+2. An increase in $\qquad$ will cause a movement along a given demand curve, which is called a change in $\qquad$
+a. supply, demand
+b. supply, quantity demanded
+c. demand, supply
+d. demand, quantity supplied
+3. Movie tickets and film streaming services are substitutes. If the price of film streaming increases, what happens in the market for movie tickets?
+a. The supply curve shifts to the left.
+b. The supply curve shifts to the right.
+c. The demand curve shifts to the left.
+d. The demand curve shifts to the right.
+4. The discovery of a large new reserve of crude oil will shift the $\qquad$ curve for gasoline, leading to a $\qquad$ equilibrium price.
+a. supply, higher
+b. supply, lower
+c. demand, higher
+d. demand, lower
+
+
+5. If the economy goes into a recession and incomes fall, what happens in the markets for inferior goods?
+  a. Prices and quantities both rise.
+  b. Prices and quantities both fall.
+  c. Prices rise and quantities fall.
+  d. Prices fall and quantities rise.
+6. Which of the following might lead to an increase in the equilibrium price of jelly and a decrease in the equilibrium quantity of jelly sold?
+  a. an increase in the price of peanut better, a complement to jelly
+  b. an increase in the price of Marshmallow Fluff, a substitute for jelly
+  c. an increase in the price of grapes, an input into jelly
+  d. an increase in consumers' incomes, as long as jelly is a normal good
+
+
+
+## QUESTIONS FOR REVIEW
+
+1. What is a competitive market? Briefly describe a type of market that is not perfectly competitive.
+2. What are the demand schedule and the demand curve, and how are they related? Why does the demand curve slope downward?
+3. Does a change in consumers' tastes lead to a movement along the demand curve or to a shift in the demand curve? Does a change in price lead to a movement along the demand curve or to a shift in the demand curve? Explain your answers.
+4. Harry's income declines, and as a result, he buys more pumpkin juice. Is pumpkin juice an inferior or a normal good? What happens to Harry's demand curve for pumpkin juice?
+5. What are the supply schedule and the supply curve, and how are they related? Why does the supply curve slope upward?
+
+## PROBLEMS AND APPLICATIONS
+
+1. Explain each of the following statements using supply-and-demand diagrams.
+a. "When a cold snap hits Florida, the price of orange juice rises in supermarkets throughout the country."
+b. "When the weather turns warm in New England every summer, the price of hotel rooms in Caribbean resorts plummets."
+c. "When a war breaks out in the Middle East, the price of gasoline rises and the price of a used Cadillac falls."
+2. "An increase in the demand for notebooks raises the quantity of notebooks demanded but not the quantity supplied." Is this statement true or false? Explain.
+3. Consider the market for minivans. For each of the events listed here, identify which of the determinants of demand or supply are affected. Also indicate whether demand or supply increases or decreases. Then draw a diagram to show the effect on the price and quantity of minivans.
+a. People decide to have more children.
+b. A strike by steelworkers raises steel prices.
+c. Engineers develop new automated machinery for the production of minivans.
+d. The price of sports utility vehicles rises.
+e. A stock market crash lowers people's wealth.
+6. Does a change in producers' technology lead to a movement along the supply curve or to a shift in the supply curve? Does a change in price lead to a movement along the supply curve or to a shift in the supply curve?
+7. Define the equilibrium of a market. Describe the forces that move a market toward its equilibrium.
+8. Beer and pizza are complements because they are often enjoyed together. When the price of beer rises, what happens to the supply, demand, quantity supplied, quantity demanded, and price in the market for pizza?
+9. Describe the role of prices in market economies.
+4. Consider the markets for film streaming services, TV screens, and tickets at movie theaters.
+a. For each pair, identify whether they are complements or substitutes:
+- Film streaming and TV screens
+- Film streaming and movie tickets
+- TV screens and movie tickets
+b. Suppose a technological advance reduces the cost of manufacturing TV screens. Draw a diagram to show what happens in the market for TV screens.
+c. Draw two more diagrams to show how the change in the market for TV screens affects the markets for film streaming and movie tickets.
+5. Over the past 40 years, technological advances have reduced the cost of computer chips. How do you think this has affected the market for computers? For computer software? For typewriters?
+6. Using supply-and-demand diagrams, show the effect of the following events on the market for sweatshirts.
+a. A hurricane in South Carolina damages the cotton crop.
+b. The price of leather jackets falls.
+c. All colleges require morning exercise in appropriate attire.
+d. New knitting machines are invented.

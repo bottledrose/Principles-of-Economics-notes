@@ -228,3 +228,106 @@ Illegal drug market:
 + In the short run, the demand for illegal drugs is inelastic
 + As a result, anti-drug policies aimed at reducing drug supply often cause drug prices to rise significantly while consumption decreases only slightly, thus increasing the total expenditure of drug users. This requires drug users to increase their funds, leading to an increase in drug-related crimes
 + In the long run, this increase in total expenditure and crime is less because over time, the demand for these illegal drugs becomes more elastic. In other words, policies aimed at reducing drug demand decrease the total revenue in the drug market and reduce drug-related crimes.
+
+
+
+## Quick Quiz
+
+1. A life-saving medicine without any close substitutes will tend to have
+a. a small elasticity of demand.
+b. a large elasticity of demand.
+c. a small elasticity of supply.
+d. a large elasticity of supply.
+2. The price of a good rises from $\$ 8$ to $\$ 12$, and the quantity demanded falls from 110 to 90 units. Calculated with the midpoint method, the price elasticity of demand is
+a. $1 / 5$.
+b. $1 / 2$.
+c. 2 .
+d. 5 .
+
+3. A linear, downward-sloping demand curve is
+a. inelastic
+b. unit elastic.
+c. elastic.
+d. inelastic at some points, and elastic at others.
+4. The ability of firms to enter and exit a market over time means that, in the long run,
+a. the demand curve is more elastic.
+b. the demand curve is less elastic.
+c. the supply curve is more elastic.
+d. the supply curve is less elastic.
+5. An increase in the supply of a good will decrease the total revenue producers receive if
+a. the demand curve is inelastic.
+b. the demand curve is elastic.
+c. the supply curve is inelastic.
+d. the supply curve is elastic.
+6. Over time, technological advance increases consumers' incomes and reduces the price of smartphones. Each of these forces increases the amount consumers spend on smartphones if the income elasticity of demand is greater than $\qquad$ and if the price elasticity of demand is greater than $\qquad$
+a. zero, zero
+b. zero, one
+c. one, zero
+d. one, one
+
+## SUMMARY
+
+- The price elasticity of demand measures how much the quantity demanded responds to changes in the price. Demand tends to be more elastic if close substitutes are available, if the good is a luxury rather than a necessity, if the market is narrowly defined, or if buyers have substantial time to react to a price change.
+- The price elasticity of demand is calculated as the percentage change in quantity demanded divided by the percentage change in price. If quantity demanded moves proportionately less than the price, then the elasticity is less than 1 and demand is said to be inelastic. If quantity demanded moves proportionately more than the price, then the elasticity is greater than 1 and demand is said to be elastic.
+- Total revenue, the total amount paid for a good, equals the price of the good times the quantity sold. For inelastic demand curves, total revenue moves in the same direction as the price. For elastic demand curves, total revenue moves in the opposite direction as the price.
+- The income elasticity of demand measures how much the quantity demanded responds to changes in consumers' income. The cross-price elasticity of demand measures how much the quantity demanded of one good responds to changes in the price of another good.
+- The price elasticity of supply measures how much the quantity supplied responds to changes in the price. This elasticity often depends on the time horizon under consideration. In most markets, supply is more elastic in the long run than in the short run.
+- The price elasticity of supply is calculated as the percentage change in quantity supplied divided by the percentage change in price. If quantity supplied moves proportionately less than the price, then the elasticity is less than 1 and supply is said to be inelastic. If quantity supplied moves proportionately more than the price, then the elasticity is greater than 1 and supply is said to be elastic.
+- The tools of supply and demand can be applied in many different kinds of markets. This chapter uses them to analyze the market for wheat, the market for oil, and the market for illegal drugs.
+
+
+
+## QUESTIONS FOR REVIEW
+
+1. Define the price elasticity of demand and the income elasticity of demand.
+2. List and explain the four determinants of the price elasticity of demand discussed in the chapter.
+3. If the elasticity is greater than 1 , is demand elastic or inelastic? If the elasticity equals zero, is demand perfectly elastic or perfectly inelastic?
+4. On a supply-and-demand diagram, show equilibrium price, equilibrium quantity, and the total revenue received by producers.
+5. If demand is elastic, how will an increase in price change total revenue? Explain.
+6. What do we call a good with an income elasticity less than zero?
+7. How is the price elasticity of supply calculated? Explain what it measures.
+8. If a fixed quantity of a good is available, and no more can be made, what is the price elasticity of supply?
+9. A storm destroys half the fava bean crop. Is this event more likely to hurt fava bean farmers if the demand for fava beans is very elastic or very inelastic? Explain.
+
+
+
+## PROBLEMS AND APPLICATIONS
+
+1. For each of the following pairs of goods, which good would you expect to have more elastic demand and why?
+a. required textbooks or mystery novels
+b. Beethoven recordings or classical music recordings in general
+c. subway rides during the next 6 months or subway rides during the next 5 years
+d. root beer or water
+2. Suppose that business travelers and vacationers have the following demand for airline tickets from New York to Boston:
+\begin{tabular}{rcc} 
+Price & \begin{tabular}{c} 
+Quantity Demanded \\
+(business travelers)
+\end{tabular} & \begin{tabular}{c} 
+Quantity Demanded \\
+(vacationers)
+\end{tabular} \\
+\hline$\$ 150$ & 2,100 tickets & 1,000 tickets \\
+200 & 2,000 & 800 \\
+250 & 1,900 & 600 \\
+300 & 1,800 & 400
+\end{tabular}
+a. As the price of tickets rises from $\$ 200$ to $\$ 250$, what is the price elasticity of demand for (i) business travelers and (ii) vacationers? (Use the midpoint method in your calculations.)
+b. Why might vacationers have a different elasticity from business travelers?
+3. Suppose the price elasticity of demand for heating oil is 0.2 in the short run and 0.7 in the long run.
+a. If the price of heating oil rises from $\$ 1.80$ to $\$ 2.20$ per gallon, what happens to the quantity of heating oil demanded in the short run? In the long run?
+(Use the midpoint method in your calculations.) b. Why might this elasticity depend on the time horizon?
+4. A price change causes the quantity demanded of a good to decrease by 30 percent, while the total revenue of that good increases by 15 percent. Is the demand curve elastic or inelastic? Explain.
+5. Cups of coffee and donuts are complements. Both have inelastic demand. A hurricane destroys half the coffee bean crop. Use appropriately labeled diagrams to answer the following questions.
+a. What happens to the price of coffee beans?
+b. What happens to the price of a cup of coffee? What happens to total expenditure on cups of coffee?
+c. What happens to the price of donuts? What happens to total expenditure on donuts?
+6. The price of coffee rose sharply last month, while the quantity sold remained the same. Five people suggest various explanations:
+
+Leonard: Demand increased, but supply was perfectly inelastic.
+Sheldon: Demand increased, but it was perfectly inelastic.
+Penny: Demand increased, but supply decreased at the same time.
+Howard: Supply decreased, but demand was unit elastic.
+RaJ: Supply decreased, but demand was perfectly inelastic.
+
+Who could possibly be right? Use graphs to explain your answer.
