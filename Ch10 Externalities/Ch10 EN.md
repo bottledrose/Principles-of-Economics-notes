@@ -22,7 +22,7 @@ $~$
 
 Figure 10.2 Pollution Externality and the Social Optimum
 
-![image-20240923142131083](images//image-20240923142131083.png)
+![image-20240923142131083](./images/image-20240923142131083.png)
 
 + In the presence of a negative externality, such as pollution, the social cost of the good exceeds the **private cost**.
 + The **optimal quantity**, $Q_{OPTIMUM}$ , is therefore smaller than the equilibrium quantity, $Q_{MARKET}$
@@ -33,7 +33,7 @@ $~$
 
 Figure 10.3 Education and the Social Optimum
 
-![image-20240923142500406](images//image-20240923142500406.png)
+![image-20240923142500406](./images/image-20240923142500406.png)
 
 + In the presence of a positive externality, the social value of the good exceeds the private value.
 + The optimal quantity, $Q_{OPTIMUM}$ , is therefore larger than the equilibrium quantity, $Q_{MARKET}$
@@ -115,7 +115,7 @@ $~$
 
 Figure 10.a The Equilibrium of Corrcevtive tax
 
-<img src="images//image-20240923154610437.png" alt="image-20240923154610437" style="zoom:50%;" />
+<img src="./images/image-20240923154610437.png" alt="image-20240923154610437" style="zoom:50%;" />
 
 Most taxes distort incentives and move the allocation of resources away from the social optimum. (As discussed in Chapter 8)
 
@@ -141,7 +141,7 @@ $~$
 
 Figure  10.b The Equilibrium of Pollution Permits
 
-<img src="images//image-20240923154643566.png" alt="image-20240923154643566" style="zoom:50%;" />
+<img src="./images/image-20240923154643566.png" alt="image-20240923154643566" style="zoom:50%;" />
 
 $~$
 
@@ -153,7 +153,7 @@ $~$
 
 Figure 10.4 The Equivalence of Corrective Taxes and Pollution Permits
 
-![image-20240923152842690](images//image-20240923152842690.png)
+![image-20240923152842690](./images/image-20240923152842690.png)
 
 + In panel (a), the EPA sets a price on pollution by levying a corrective tax, and the demand curve determines the quantity of pollution.
 + In panel (b), the EPA limits the quantity of pollution by limiting the number of pollution permits, and the demand curve determines the price of pollution.
@@ -327,9 +327,9 @@ PROBLEMS AND APPLICATIONS
 
 5. The many identical residents of Whoville love drinking Zlurp. Each resident has the following willingness to pay for the tasty refreshment:
 
-| Willingness to pay |  |
+| Willingness to pay | Price/\$ |
 |-----------------|--------|
-| First bottle | \$ 5|
+| First bottle | 5 |
 | Second bottle| 4|
 | Third bottle | 3|
 | Fourth bottle| 2|
@@ -363,9 +363,9 @@ how might Bruno and Placido reach an efficient outcome on their own? What might 
 
 | Firm | Initial Pollution Level | Cost of Reducing Pollution by 1 Unit |
 |---------------|--------------------|-------------|
-| A             | 30 units           | $\$ 20$ |
-| B             | 40 units           | $\$ 30$ |
-| C             | 20 units           | $\$ 10$ |
+| A             | 30 units           | \$ 20 |
+| B             | 40 units           | \$ 30 |
+| C             | 20 units           | \$ 10 |
 
 The government wants to reduce pollution to 60 units, so it gives each firm 20 tradable pollution permits.
 
